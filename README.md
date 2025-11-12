@@ -88,7 +88,7 @@ Those projects evolved:
 - Strategy Board Game: [Echoes of Battles](https://echoes-of-battles.com)
 - Book: [Echo](https://echo-myth.com)
 
-So the slideshow evolved into a separated module with no dependencies:
+So the i18n module evolved into a separated module with no dependencies:
 - Easy to use
 - Performance friendly
 - Easy to maintain
