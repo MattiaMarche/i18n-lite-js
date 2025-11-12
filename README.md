@@ -95,9 +95,9 @@ So the i18n module evolved into a separated module with no dependencies:
 
 ### TypeScript
 
-Want to use it in TypeScript or scoped? No problem!
+Want to use it in TypeScript or scoped? Here it is:
 
-[Just ask me!](mailto:info@mattiamarchesini.com)
+[I18nLiteTS](https://github.com/MattiaMarche/i18n-lite-ts)
 
 
 ## Author
